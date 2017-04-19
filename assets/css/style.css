@@ -9,19 +9,22 @@ header{
  width: 200px;
  margin-left: 120px;
  display: -webkit-inline-box;
-}.coders img {
+}
+.coders img {
  width: 200px;
  opacity: 0.5;
  filter: alpha(opacity=50);
- border: 10px solid white;
-}.coders img:hover {
+ border: 10px solid  #AA7D39;
+}
+.coders img:hover {
  opacity: 1;
  filter: alpha(opacity=50);
-}.nombres {
+}
+.nombres {
  font-family: 'Coming Soon', cursive;
  font-size: 1em;
  margin-right: 20px;
- color: white;
+ color: #AA7D39;
  position: absolute;
  margin-top: 20px;
  margin-left: 160px;
